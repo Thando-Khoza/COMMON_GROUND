@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+data/raw/
+data/processed/*.csv
+*.tmp
+*.log
+.ipynb_checkpoints/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Archived redundant scripts
+archive/
