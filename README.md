@@ -34,6 +34,8 @@ The project demonstrates how raw transactional data can be examined, validated, 
 - OpenPyXL
 - Matplotlib
 - SQL concepts and structured data analysis
+- Excel
+  
 
 ## Analytical Approach
 
